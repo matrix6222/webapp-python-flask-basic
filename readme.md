@@ -15,7 +15,6 @@ Web application for creating posts in Markdown with thread categorization.
    - AUTHOR_ID
    - TIME_CREATE
    - TIME_EDIT
-   - TIME_EDIT
    - HIDDEN
  - USERS
    - ID
